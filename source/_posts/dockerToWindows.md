@@ -7,7 +7,10 @@ tags:
   - QEMU
   - Proot
   - 麦块联机
+  - 免费
+  - 挂机宝
 date: 2024-12-29 00:00:00
+updated: 2024-12-29 15:00:00
 cover: //cdn.qwqo.cn/file/xjh/0a9718d886f452a10997aa4efd836eeb.png
 ---
 
