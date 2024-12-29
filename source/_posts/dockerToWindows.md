@@ -22,7 +22,7 @@ cover: //cdn.qwqo.cn/file/xjh/0a9718d886f452a10997aa4efd836eeb.png
 ### 先进入Proot
 
 ``` bash
-./dist/proot -S ./bin/ash"
+./dist/proot -S . /bin/ash
 ```
 
 ### 安装QEMU
