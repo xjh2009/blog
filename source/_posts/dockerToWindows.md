@@ -51,9 +51,9 @@ qemu-system-x86_64 -m 16G -smp 8 -drive file=/2008r2.qcow2,format=qcow2 -device 
 这东西始终还是屎
 这个硬盘速度 现在是100多台服务器跑在一个2T的单盘
 也是为难他了
+![](//cdn.qwqo.cn/file/xjh/0a9718d886f452a10997aa4efd836eeb.png "硬盘IO")
+![](//cdn.qwqo.cn/file/xjh/1dc96a4061dc9a47fb694d818d75e6d4.png "速度")
 
-[![](//cdn.qwqo.cn/file/xjh/0a9718d886f452a10997aa4efd836eeb.png )](硬盘IO)
-[![](//cdn.qwqo.cn/file/xjh/1dc96a4061dc9a47fb694d818d75e6d4.png )](速度)
 
 ### 系统镜像
 
